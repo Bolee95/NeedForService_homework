@@ -1,0 +1,14 @@
+Klikabilni wireframe se moze pokrenuti klikom na index.html fajl. 
+Potrebno je skinuti mali JustInMind extension kako bi bilo moguce koriscenje.
+Nakon toga je moguca navigacija kroz aplikaciju odgovarajucim akcijama
+ili kroz meni koji se dobija kada se klikne ikonica u gornjem desnom uglu.
+
+Klikabilni wireframe se takodje moze pokrenuti i na mobilnom uredjaju, tako sto
+se sa Play Store-a skine aplikacija JustInMind. Nakon toga je potrebno ulogovati se 
+na specijalan nalog sa sledecim podacima:s
+
+username: ilic.bogdan95@gmail.com
+password: qwerty
+
+Nakon toga je potrebno kliknuti na "View on device" dugme nakon cega ce se klikabilni
+wireframe pokrenuti na mobilnom uredjaju.

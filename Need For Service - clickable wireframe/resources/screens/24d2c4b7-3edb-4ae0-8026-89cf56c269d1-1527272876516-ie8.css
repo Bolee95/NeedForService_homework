@@ -1,0 +1,55 @@
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 #s-Line_1 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 #s-Line_2 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 #s-Line_3 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 #s-Line_4 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 #s-Line_5 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 #s-Line_6 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 #s-Line {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 #s-Button_1 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70) ;
+  filter: alpha(opacity=70) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.devMobile .non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-24d2c4b7-3edb-4ae0-8026-89cf56c269d1 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
